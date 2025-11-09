@@ -1,0 +1,32 @@
+{
+  "hash": "a0959879",
+  "configHash": "471d1f15",
+  "lockfileHash": "bcc10476",
+  "browserHash": "6b88bc77",
+  "optimized": {
+    "@emotion/styled": {
+      "src": "../../node_modules/@emotion/styled/dist/emotion-styled.browser.development.esm.js",
+      "file": "@emotion_styled.js",
+      "fileHash": "9c46ff39",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "aab19073",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "19aab953",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "react-CECw5MHl": {
+      "file": "react-CECw5MHl.js",
+      "isDynamicEntry": false
+    }
+  }
+}
